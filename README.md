@@ -93,12 +93,6 @@ jwst-ngc7469-analysis/
 
 ---
 
-## 📈 Sample Output
-
-![Spectrum](outputs/spectrum.png)
-
----
-
 ## 🛠️ Tech Stack
 
 * Python
