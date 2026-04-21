@@ -75,6 +75,7 @@ These values indicate increasing physical scale at longer wavelengths, consisten
 ### 📊 Combined Galaxy Spectrum
 
 ![Combined Spectrum](ringvscentre.png)
+**Insight:** The rising mid-infrared continuum indicates strong dust emission, with prominent peaks tracing ionized gas and molecular transitions.
 
 The combined spectrum of NGC 7469 shows a rising infrared continuum, indicating strong dust emission. Prominent emission peaks correspond to ionized gas and molecular transitions.
 
@@ -83,13 +84,13 @@ The combined spectrum of NGC 7469 shows a rising infrared continuum, indicating 
 ### ⚖️ Center vs Ring Spectral Comparison
 
 ![Center vs Ring](comparison.png)
-
+**Insight:** The central region shows a stronger continuum consistent with AGN activity, while the ring highlights enhanced spectral features linked to star formation.
 The central region exhibits a stronger continuum, suggesting AGN dominance, while the circumnuclear ring shows distinct emission features associated with active star formation.
 
 ---
 
 ### 🔬 Spectral Feature Identification
-
+**Insight:** Identified emission lines and PAH features reveal the coexistence of ionized gas, molecular hydrogen, and active star-forming regions in the galaxy.
 ![Annotated Spectrum](spectrum.png)
 
 Key emission lines such as [Ne II], [Ne III], [S IV], and molecular hydrogen (H₂) transitions are clearly detected. PAH features further confirm intense star-forming activity in the galaxy.
@@ -115,6 +116,12 @@ jwst-ngc7469-analysis/
 ```
 
 ---
+
+## 🌌 Key Insights
+
+- The infrared spectrum shows a strong rising continuum, indicating significant dust emission in NGC 7469.
+- The central region is dominated by AGN activity, while the circumnuclear ring shows signatures of active star formation.
+- Detection of PAH features confirms star-forming environments, while atomic emission lines trace ionized gas.
 
 ## 🛠️ Tech Stack
 
