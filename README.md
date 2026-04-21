@@ -62,21 +62,44 @@ Infrared spectroscopy helps in:
 
 ## 📊 Results
 
-* Pixel scale (approx):
+### 📌 Pixel Scale (Approximate)
+- ~44.53 pc (Channel 1)
+- ~58.23 pc (Channel 2)
+- ~68.51 pc (Channel 3)
+- ~119.89 pc (Channel 4)
 
-  * ~44.53 pc (Channel 1)
-  * ~58.23 pc (Channel 2)
-  * ~68.51 pc (Channel 3)
-  * ~119.89 pc (Channel 4)
-
-* Generated outputs:
-
-  * Combined galaxy spectrum
-  * Center vs Ring spectral comparison
-  * Feature-annotated spectrum
+These values indicate increasing physical scale at longer wavelengths, consistent with JWST MIRI resolution characteristics.
 
 ---
 
+### 📊 Combined Galaxy Spectrum
+
+![Combined Spectrum](ringvscentre.png)
+
+The combined spectrum of NGC 7469 shows a rising infrared continuum, indicating strong dust emission. Prominent emission peaks correspond to ionized gas and molecular transitions.
+
+---
+
+### ⚖️ Center vs Ring Spectral Comparison
+
+![Center vs Ring](comparison.png)
+
+The central region exhibits a stronger continuum, suggesting AGN dominance, while the circumnuclear ring shows distinct emission features associated with active star formation.
+
+---
+
+### 🔬 Spectral Feature Identification
+
+![Annotated Spectrum](spectrum.png)
+
+Key emission lines such as [Ne II], [Ne III], [S IV], and molecular hydrogen (H₂) transitions are clearly detected. PAH features further confirm intense star-forming activity in the galaxy.
+
+---
+
+### 📈 Generated Outputs
+- Combined galaxy spectrum  
+- Center vs Ring spectral comparison  
+- Feature-annotated spectrum  
 ## 📂 Project Structure
 
 ```id="ht4p9x"
